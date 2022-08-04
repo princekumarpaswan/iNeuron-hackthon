@@ -881,10 +881,10 @@ footer{
         font-size: 15px;
     }
     .grid4 img{
-        width: 300px;
+        width: 200px;
     }
     .foot{
-        display: initial;
+        display: none;
         margin: 50px ;
         align-self: center;
         align-items: center;
@@ -905,6 +905,28 @@ footer{
         text-decoration: none;
         font-size: 20px;
         font-weight: 600;
+    }
+    .gridhall p{
+        font-size: 15px;
+    }
+    .gridhall img{
+        width: 100px;
+    }
+    .divl .divlp{
+        margin-left: 20px;
+    }
+    .divlb button{
+        margin-left: -40px;
+    }
+    .gridhall div{
+        margin-bottom: 30px;
+        height: 500px;
+    }
+    .kpk div{
+        width: 300px;
+        height: 350px;
+        font-size: 5px !important;
+        margin-left: -30px;
     }
     
 }

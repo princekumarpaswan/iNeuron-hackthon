@@ -754,7 +754,8 @@ nav ul .prince ul{
 .gridhall div h3{
     margin-top: 5px;
 }
-.gridhall div{
+.gridhall .divl{
+    text-align: center;
     border: #000 solid 2px;
    box-shadow: #000 2px 2px 5px, #000 -2px -2px 5px;;
 }
@@ -765,6 +766,22 @@ nav ul .prince ul{
     transition: 0.3s;
     transform: 0.3s;
     transition-delay: 0.1s;
+}
+.divl button{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 50px;
+    width: 100px;
+    background-color: transparent;
+    border: none;
+}
+.divl p{
+    margin-top: 80px !;
+    display: flex;
+    text-align: center;
+    margin-left: 75px;
+    
 }
 
 
